@@ -176,6 +176,13 @@ $$
 \end{aligned}
 $$
 
+Where:
+
+- $r$ = Interest Rate
+- $L$ = Loan Amount  
+- $P(\text{Accept})$ = Probability borrower accepts your offered rate
+- $P(\text{Default})$ = Probability loan defaults
+
 This requires predicting BOTH acceptance probability AND default probability.
 
 ---
@@ -254,4 +261,5 @@ Teams selected to present will receive extra credit points.
 
 
 **Good luck! See you on presentation day for the big reveal!**
+
 
