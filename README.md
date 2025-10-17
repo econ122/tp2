@@ -168,33 +168,12 @@ Different borrowers accept different rates. You need to figure out what rates di
 ### The Optimization Problem
 
 For each loan, you're trying to maximize:
-
-Expected Profit=
-​
-  
-[ 
-Expected Interest Revenue
-(1−P(Default))×r×L×3
-​
- 
-​
- 
-− 
-Expected Default Loss
-P(Default)×(L+700)
-​
- 
-​
- − 
-Operating Cost
-200
-​
- 
-​
- ]×P(Accept)
-​
- 
-
+$$
+\begin{aligned}
+\text{Expected Profit} = &\bigg[\underbrace{(1 - P(\text{Default})) \times r \times L \times 3}_{\text{Expected Interest Revenue}} \\
+&- \underbrace{P(\text{Default}) \times (L + 700)}_{\text{Expected Default Loss}} - \underbrace{200}_{\text{Operating Cost}}\bigg] \times P(\text{Accept})
+\end{aligned}
+$$
 
 This requires predicting BOTH acceptance probability AND default probability.
 
@@ -271,5 +250,6 @@ On the last day of class, we will:
 Teams selected to present will receive extra credit points.
 
 ---
+
 
 **Good luck! See you on presentation day for the big reveal!**
