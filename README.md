@@ -171,8 +171,7 @@ For each loan, you're trying to maximize:
 
 $$
 \begin{aligned}
-\text{Expected Profit} = &\bigg[\underbrace{(1 - P(\text{Default})) \times r \times L \times 3}_{\text{Expected Interest Revenue}} \\
-&- \underbrace{P(\text{Default}) \times (L + 700)}_{\text{Expected Default Loss}} - \underbrace{200}_{\text{Operating Cost}}\bigg] \times P(\text{Accept})
+\text{Expected Profit} = &\bigg[\underbrace{(1 - P(\text{Default})) \times r \times L \times 3}_{\text{Expected Interest Revenue}} &- \underbrace{P(\text{Default}) \times (L + 700)}_{\text{Expected Default Loss}} - \underbrace{200}_{\text{Operating Cost}}\bigg] \times P(\text{Accept})
 \end{aligned}
 $$
 
@@ -261,5 +260,6 @@ Teams selected to present will receive extra credit points.
 
 
 **Good luck! See you on presentation day for the big reveal!**
+
 
 
