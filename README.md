@@ -9,7 +9,7 @@ Welcome to your role as a **Loan Officer at Data Bank**! Your task is to build p
 1. **Should we approve or deny this loan?**
 2. **If approved, what interest rate should we offer?**
 
-The catch? You don't know the actual outcomes (whether borrowers accept your rates or default on loans).
+The catch? You don't know the actual outcomes (whether borrowers accept your rates or default on loans) until I merge your predictions with the actual outcomes.
 
 **Requirements:** You must try **at least 4 different supervised learning methods** and compare their performance. Your grade depends on both methodology and results.
 
@@ -260,6 +260,7 @@ Teams selected to present will receive extra credit points.
 
 
 **Good luck! See you on presentation day for the big reveal!**
+
 
 
 
