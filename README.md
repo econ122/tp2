@@ -89,7 +89,7 @@ The borrower goes elsewhere. You miss the opportunity but incur no costs.
 
 ### Your Objective
 
-Maximize total profit across all 1,00 loans by making smart decisions about:
+Maximize total profit across all 1,000 loans by making smart decisions about:
 
 1. Which loans to approve vs deny
 2. What interest rate to offer on approved loans
@@ -260,6 +260,7 @@ Teams selected to present will receive extra credit points.
 
 
 **Good luck! See you on presentation day for the big reveal!**
+
 
 
 
