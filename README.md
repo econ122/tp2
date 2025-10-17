@@ -4,7 +4,7 @@
 
 Welcome to your role as a **Loan Officer at Data Bank**! Your task is to build predictive models to make profitable lending decisions. This isn't just about building accurate models—it's about making **smart business decisions** that maximize profit.
 
-**The Challenge:** You have 1000 new loan applications. For each one, you must decide:
+**The Challenge:** You have 1,000 new loan applications. For each one, you must decide:
 
 1. **Should we approve or deny this loan?**
 2. **If approved, what interest rate should we offer?**
@@ -260,6 +260,7 @@ Teams selected to present will receive extra credit points.
 
 
 **Good luck! See you on presentation day for the big reveal!**
+
 
 
 
