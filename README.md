@@ -168,6 +168,7 @@ Different borrowers accept different rates. You need to figure out what rates di
 ### The Optimization Problem
 
 For each loan, you're trying to maximize:
+
 $$
 \begin{aligned}
 \text{Expected Profit} = &\bigg[\underbrace{(1 - P(\text{Default})) \times r \times L \times 3}_{\text{Expected Interest Revenue}} \\
@@ -253,3 +254,4 @@ Teams selected to present will receive extra credit points.
 
 
 **Good luck! See you on presentation day for the big reveal!**
+
