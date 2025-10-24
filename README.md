@@ -216,7 +216,7 @@ This requires predicting BOTH acceptance probability AND default probability.
 |:---------:|:------:|:----------------------:|
 | **Profit Ranking** | 20 | Competitive performance on test set |
 | **Model Variety** | 15 | Used 4+ different methods, properly implemented |
-| **Cross-Validation** | 15 | Proper k-fold CV methodology |
+| **Validation** | 15 | Proper validation methodology |
 | **Feature Engineering** | 10 | Created meaningful features with clear rationale |
 | **Visualizations** | 10 | Clear, informative plots |
 | **Business Reasoning** | 15 | Strong justification of strategy |
@@ -242,7 +242,7 @@ This means:
 
 **Extra Credit:** 
 
-- Top team from each section presents on final day: +5 points
+- Top team from each section presents on final day: **+5 points**
 
 ---
 
@@ -260,6 +260,7 @@ Teams selected to present will receive extra credit points.
 
 
 **Good luck! See you on presentation day for the big reveal!**
+
 
 
 
